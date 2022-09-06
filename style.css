@@ -5,8 +5,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: rgb(131,58,180);
-  background-image: url("https://ipfs.io/QmNn5VWW4Y7HWx8X3oToELX5t65qtkB5Hn7b2sHA6GB2bc") ;
+  background: rgb(000000);
+  background-image: url("https://gateway.pinata.cloud/ipfs/QmNn5VWW4Y7HWx8X3oToELX5t65qtkB5Hn7b2sHA6GB2bc") ;
   color: white;
   height: 100%;
 }
